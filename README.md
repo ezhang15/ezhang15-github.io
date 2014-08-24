@@ -1,2 +1,1 @@
-ezhang15-github.io
-==================
+Initializing first commit with README.
